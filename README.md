@@ -4,15 +4,6 @@ I am a passionate and creative Software Engineer who loves coming up with new id
 
 <br></br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=iricecrispy&count_private=true&hide=issues&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iricecrispy&layout=compact&theme=dracula" />
-</a>
-
-<br></br>
-
 ### Languages and Tools:
 <img align="left" width="36px" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img align="left" width="36px" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -32,19 +23,25 @@ I am a passionate and creative Software Engineer who loves coming up with new id
 <img align="left" width="36px" alt="Discord.js" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg">
 <img align="left" width="36px" alt="Heroku" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
 <img width="36px" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  
-<br></br>
+
 
 ### Connect with me:
 
 <a href="mailto:huangeric.j@gmail.com">
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/erichuang-97/">
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://angel.co/u/eric-huang-97">
   <img alt="angellist" src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
+</a>
+
+<br></br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=iricecrispy&count_private=true&hide=issues&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iricecrispy&layout=compact&theme=dracula" />
 </a>
