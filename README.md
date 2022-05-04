@@ -14,7 +14,6 @@ I am a passionate and creative Software Engineer who loves coming up with new id
 <br></br>
 
 ### Languages and Tools:
-
 <img align="left" width="36px" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img align="left" width="36px" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img align="left" width="36px" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -32,7 +31,7 @@ I am a passionate and creative Software Engineer who loves coming up with new id
 <img align="left" width="36px" alt="SQLAlchemy" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
 <img align="left" width="36px" alt="Discord.js" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg">
 <img align="left" width="36px" alt="Heroku" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
-<img align="left" width="36px" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+<img width="36px" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   
 <br></br>
 
