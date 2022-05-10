@@ -1,8 +1,8 @@
 ## Hello Word 👋 I"m Eric.
 
 I am a passionate and creative Software Engineer who loves coming up with new ideas and turning them into a working application.
-
 <br></br>
+[Portfolio](https://iricecrispy.github.io/)
 
 ### Languages and Tools:
 <img align="left" width="36px" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
